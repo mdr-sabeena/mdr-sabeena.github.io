@@ -12,4 +12,26 @@
 body {
 	background : #ffec80;	
 	color : DarkSlateGray;
+	font-family:sans-serif;
 }
+
+.bride{
+	padding:4px;
+	font-family:sans-serif;
+	font-size:x-large;
+	font-weight:bold;
+	word-wrap: break-word;
+}
+
+.brideEdu {
+	font-family:sans-serif;
+	font-size:1em;
+	font-weight:bold;
+	vertical-align:center;
+	word-wrap: break-word
+}
+
+a {
+	color : green;	
+}
+	
