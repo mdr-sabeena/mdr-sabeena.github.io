@@ -1,0 +1,13 @@
+#innerCard {
+	background:SNOW;
+	width : 750px;	
+	border : 4px SOLID GOLDENROD;
+}
+#outerCard {
+	
+}
+
+body {
+	background : GOLD;	
+	color : DarkSlateGray;
+}
