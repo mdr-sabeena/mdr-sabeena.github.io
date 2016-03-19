@@ -1,6 +1,8 @@
 #innerCard {
 	background:SNOW;
-	width : 750px;	
+	/*width : 750px;	*/
+	width:90%;
+	height:100%;
 	border : 4px SOLID GOLDENROD;
 }
 #outerCard {
